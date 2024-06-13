@@ -1,2 +1,4 @@
 # APB-TFG-Modelos
-Modelos Empleados para el desarrollo de mi Trabajo de Fin de Grado en Ingenería Informática de la Universidad Carlos III de Madrid para el curso 2023/2024.
+Modelos empleados para el desarrollo del Trabajo de Fin de Grado "Procesamiento de lenguaje natural y aprendizaje profundo para la detección temprana de enfermedades mentales" en Ingenería Informática de la Universidad Carlos III de Madrid para el curso 2023/2024 por Alejandro Pardo Bascuñana.
+
+Citación:
