@@ -5,7 +5,7 @@
 
 > **Bachelor's Thesis (TFG)** — Alejandro Pardo Bascuñana  
 > Universidad Carlos III de Madrid (UC3M)  
-> Grado en Ingeniería Informática  (¡Computer Science and Engineering)
+> Grado en Ingeniería Informática  (Computer Science and Engineering)
 > Supervisor: Isabel Segura Bedmar — Madrid, 2024
 
 > **Workshop Paper:** *[APB-UC3M at eRisk 2024](https://ceur-ws.org/Vol-3740/paper-82.pdf)* — CLEF 2024, CEUR-WS Vol. 3740  
