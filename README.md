@@ -1,11 +1,24 @@
 # NLP and Deep Learning for the Early Detection of Mental Disorders
 
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+
+> **Bachelor's Thesis (TFG)** — Alejandro Pardo Bascuñana  
+> Universidad Carlos III de Madrid (UC3M)  
+> Grado en Ingeniería Informática  (¡Computer Science and Engineering)
+> Supervisor: Isabel Segura Bedmar — Madrid, 2024
+
+> **Workshop Paper:** *[APB-UC3M at eRisk 2024](https://ceur-ws.org/Vol-3740/paper-82.pdf)* — CLEF 2024, CEUR-WS Vol. 3740  
+> **Thesis URL:** *pending publication by Universidad Carlos III de Madrid*
+
+---
+
+## Overview
+
 This repository contains the **model training logic, data analysis, and experimentation code** from the Bachelor's Thesis (*Trabajo de Fin de Grado*):
 
 > **"Procesamiento de lenguaje natural y aprendizaje profundo para la detección temprana de enfermedades mentales"**  
 > *(Natural Language Processing and Deep Learning for the Early Detection of Mental Disorders)*
-
-Carried out in the Computer Science and Engineering degree at **Universidad Carlos III de Madrid** (academic year 2023/2024) by **Alejandro Pardo Bascuñana**, supervised by **Isabel Segura Bedmar**.
 
 > **Note:** The thesis document was written in Spanish.
 
@@ -115,4 +128,12 @@ The competition working notes paper derived from this thesis:
 
 ## License
 
-This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0) — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](LICENSE).
+
+## Acknowledgments
+
+To my family, my supervisor Isabel, my teammate Pedro, and all the professors at UC3M who made learning about AI a constant discovery.
+
+---
+
+*Alejandro Pardo Bascuñana — Universidad Carlos III de Madrid, 2024*
