@@ -115,8 +115,4 @@ The competition working notes paper derived from this thesis:
 
 ## License
 
-This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
-
-Under this license you are free to use, study, modify, and distribute this software, provided that any modified versions are also released under the same license. If you run a modified version of this software to provide a network service, you must also make the source code of your modified version available to users of that service.
-
-See the [LICENSE](LICENSE) file for the full license text, or visit [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html) for more details.
+This project is licensed under the **[GNU Affero General Public License v3.0 (AGPL-3.0)]** (LICENSE).
